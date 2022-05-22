@@ -1,6 +1,9 @@
 # MBTI-NLP
 自然言語処理を用いて性格分析を行う研究です
 
+## reference  
+- [MBTI: test your personality](https://www.kaggle.com/code/abhijitsingh001/mbti-test-your-personality)
+
 ## dataset
 - https://www.kaggle.com/datasets/datasnaek/mbti-type  
 - https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset

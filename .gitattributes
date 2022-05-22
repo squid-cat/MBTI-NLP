@@ -1,0 +1,2 @@
+mbti_1.csv filter=lfs diff=lfs merge=lfs -text
+MBTI_500.csv filter=lfs diff=lfs merge=lfs -text

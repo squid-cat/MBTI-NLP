@@ -3,7 +3,7 @@
 
 ## reference  
 - [MBTI: test your personality](https://www.kaggle.com/code/abhijitsingh001/mbti-test-your-personality)
-- [openface: how to use in docker](https://github.com/TadasBaltrusaitis/OpenFace#readme)
+- [openface: how to use in docker](https://github.com/TadasBaltrusaitis/OpenFace/wiki)
 
 ## dataset
 - https://www.kaggle.com/datasets/datasnaek/mbti-type  

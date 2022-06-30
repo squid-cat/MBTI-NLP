@@ -10,9 +10,12 @@
 - https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
 
 ## presentations
+
+#### 論文発表
 - ABC2022
   - https://docs.google.com/document/d/1Lr1fU1pYohyixL1bKI1VEWKXmji1RN3I/edit?usp=sharing&ouid=108479982270572372767&rtpof=true&sd=true
 
+#### 進捗スライド
 - 概要 - 自然言語処理を用いた性格分析
   - https://docs.google.com/presentation/d/1l26N6RQU6C7yG9yLkzzAUlog-qnwAiF2uHNvSK_Gc1M/edit?usp=sharing
 - 01 自然言語処理について

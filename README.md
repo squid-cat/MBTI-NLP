@@ -4,6 +4,7 @@
 ## reference  
 - [MBTI: test your personality](https://www.kaggle.com/code/abhijitsingh001/mbti-test-your-personality)
 - [openface: how to use in docker](https://github.com/TadasBaltrusaitis/OpenFace/wiki)
+- [音声解析 - librosaによる音声データからの特徴量抽出 (MFCC)](https://community.datarobot.com/t5/%E3%83%93%E3%83%87%E3%82%AApodcast/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96-python%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88-librosa%E3%81%AB%E3%82%88%E3%82%8B%E9%9F%B3%E5%A3%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E3%81%AE%E7%89%B9%E5%BE%B4%E9%87%8F%E6%8A%BD%E5%87%BA-mfcc/ba-p/5106)
 
 ## dataset
 - https://www.kaggle.com/datasets/datasnaek/mbti-type  

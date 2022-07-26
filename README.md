@@ -14,7 +14,7 @@
 
 #### 論文発表
 - ABC2022
-  - https://docs.google.com/document/d/1Lr1fU1pYohyixL1bKI1VEWKXmji1RN3I/edit?usp=sharing&ouid=108479982270572372767&rtpof=true&sd=true
+  - https://drive.google.com/file/d/1Eqg2pXCSSikOWbgLpLRfHimKfvL0Xl2S/view?usp=sharing
 
 #### 進捗スライド
 - 概要 - 自然言語処理を用いた性格分析
